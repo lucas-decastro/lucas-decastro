@@ -4,7 +4,7 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>
 
-[![Snake animation](https://github.com/lucas-decastro/lucas-decastro/actions/workflows/snake.yml/badge.svg)](https://github.com/lucas-decastro/lucas-decastro/actions/workflows/snake.yml)
+![Snake animation](https://github.com/lucas-decastro/lucas-decastro/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contatos:
