@@ -1,6 +1,6 @@
 # Hi guys, I'm Lucas Rodrigues 👋
 - Passionate about technology and everything that involves the DevOps culture 💙🚀
-- Working as Senior Infrastructure Analyst - Cloud Computing at Cast Group 💼
+- Working as Infrastructure Analyst at CASSI 💼
 - Constantly learning about Linux, IAC, Kubernetes and Cloud Computing ☁️
 
 ### Tools and Technologies 💻
